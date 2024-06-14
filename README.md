@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Data-girl24
 - 👀 I’m interested in staying current in the latest technologies
-- 🌱 I’m currently learning front end web development aned python
+- 🌱 I’m currently a softwared developer student
 - 💞️ I’m looking forward to collaborating with my peers 
 - 📫 How to reach me... Twitter Ronnie_daSQL
 
